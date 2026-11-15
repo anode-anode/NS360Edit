@@ -17,6 +17,7 @@ Files:
     main.py         entry point
     gui.py          PyQt6 window
     filehandler.py  save parsing, editing and checksums
+    carnames.py     LUT for vehicle signatures 
 
 Usage:
     python3 main.py

@@ -11,7 +11,7 @@ A lightweight *Need for Speed: Most Wanted* (2005) (Xbox 360) save file editor, 
    ~/library/Application Support/Speedbreaker/Save
    ```
 4. **Modify target fields** – NS360Edit will expose bounty-per-vehicle and player cash. 
-5. **Export** – Ensure your save is backed up. NS360Edit will open a dialog allowing the new save file to be named to your chosen path. Once saved, change the name of the new file back to your original save.
+5. **Export** – Ensure your save is backed up. NS360Edit will open a dialog allowing the new file to be named and saved to your chosen path. Once saved, and the original file backed up safely, change the name of the new file back to your original save.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ab424b18-8452-43a2-ba5f-59062f80c489" alt="Description" width="500">
